@@ -1,0 +1,29 @@
+{
+  "name": "druid-sql-parser",
+  "version": "1.2.5",
+  "description": "Parses Sql to an AST and re-stringifies SQL ASTs",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "sql",
+    "sql-parser",
+    "parser",
+    "node",
+    "node-parser",
+    "node-sql-parser",
+    "ast",
+    "sql-ast"
+  ],
+  "author": "Maggie Brewster",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^6.1.4"
+  },
+  "dependencies": {
+    "deep-equal": "^1.0.1",
+    "deepequal": "0.0.1",
+    "pegjs": "^0.10.0"
+  }
+}
