@@ -116,7 +116,7 @@ ast = {
  }
  const sql = parser.stringify(ast);
 ```
-logs: `'SELECT "server" FROM sys.server_segments'`
+los: `'SELECT "server" FROM sys.server_segments'`
 
 ## License 
 [MIT](LICENSE)
