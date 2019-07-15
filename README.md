@@ -1,13 +1,13 @@
 # Druid Sql Parser 
 Parses Sql to an AST and re-stringifies SQL ASTs
 
-### Set up 
+## Set up 
 
 install druid-sql-parser
 
 `npm i druid-sql-parser`
 
-### Sql to AST 
+## Sql to AST 
 
 ```
 const parser = require('druid-sql-parser');
@@ -15,7 +15,7 @@ cosnt ast = parser.parse('SELECT "server" FROM sys.server_segments');
 console.log(ast);
 
 ```
-// logs:
+logs:
  ```
  {
             "type": "query",
@@ -65,7 +65,7 @@ console.log(ast);
 
 ```
 
-### AST to SQL
+## AST to SQL
 
 ```
 const parser = require('druid-sql-parser');
@@ -118,4 +118,5 @@ ast = {
 ```
 logs: `'SELECT "server" FROM sys.server_segments'`
 
-
+## License 
+[MIT](LICENSE)
