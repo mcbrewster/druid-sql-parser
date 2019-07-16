@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/mcbrewster/druid-sql-parser.svg?branch=master)](https://travis-ci.org/mcbrewster/druid-sql-parser)
-
+[![npm version](https://badge.fury.io/js/druid-sql-parser.svg)](//npmjs.com/package/druid-sql-parser)
 # Druid Sql Parser 
 Parses Sql to an AST and re-stringifies SQL ASTs
 
