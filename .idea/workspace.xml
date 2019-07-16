@@ -2,160 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="092afae8-9e8a-4a27-83c0-ebbb04f8531c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.bin/pegjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/assertion-error/History.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/assertion-error/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/assertion-error/index.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/assertion-error/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/assertion-error/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/CODEOWNERS" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/CODE_OF_CONDUCT.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/CONTRIBUTING.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/History.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/ReleaseNotes.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/bower.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/chai.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/karma.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/karma.sauce.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai/assertion.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai/config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai/core/assertions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai/interface/assert.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai/interface/expect.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai/interface/should.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai/utils/addChainableMethod.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai/utils/addLengthGuard.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai/utils/addMethod.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai/utils/addProperty.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai/utils/compareByInspect.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai/utils/expectTypes.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai/utils/flag.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai/utils/getActual.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai/utils/getEnumerableProperties.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai/utils/getMessage.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai/utils/getOwnEnumerableProperties.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai/utils/getOwnEnumerablePropertySymbols.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai/utils/getProperties.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai/utils/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai/utils/inspect.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai/utils/isNaN.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai/utils/isProxyEnabled.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai/utils/objDisplay.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai/utils/overwriteChainableMethod.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai/utils/overwriteMethod.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai/utils/overwriteProperty.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai/utils/proxify.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai/utils/test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/lib/chai/utils/transferFlags.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/register-assert.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/register-expect.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/register-should.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/sauce.browsers.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/check-error/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/check-error/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/check-error/check-error.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/check-error/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/check-error/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chi/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chi/app.coffee" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chi/config.coffee" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chi/controllers/index.coffee" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chi/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chi/routebuilder.coffee" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chi/routes.coffee" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/deep-eql/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/deep-eql/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/deep-eql/deep-eql.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/deep-eql/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/deep-eql/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/deep-equal/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/deep-equal/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/deep-equal/example/cmp.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/deep-equal/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/deep-equal/lib/is_arguments.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/deep-equal/lib/keys.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/deep-equal/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/deep-equal/readme.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/deep-equal/test/cmp.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/deepequal/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/deepequal/.npmignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/deepequal/History.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/deepequal/License.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/deepequal/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/deepequal/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/deepequal/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/deepequal/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/deepequal/test/deepequal.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fast-apply/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fast-apply/.npmignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fast-apply/History.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fast-apply/License.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fast-apply/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fast-apply/benchmark/fastApply.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fast-apply/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fast-apply/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/get-func-name/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/get-func-name/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/get-func-name/get-func-name.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/get-func-name/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/get-func-name/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/is-args/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/is-args/.npmignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/is-args/History.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/is-args/License.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/is-args/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/is-args/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/is-args/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/is-args/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/is-args/test/isArgs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pathval/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pathval/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pathval/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pathval/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pathval/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pathval/pathval.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pegjs/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pegjs/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pegjs/VERSION" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pegjs/bin/pegjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pegjs/examples/arithmetics.pegjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pegjs/examples/css.pegjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pegjs/examples/javascript.pegjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pegjs/examples/json.pegjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pegjs/lib/compiler/asts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pegjs/lib/compiler/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pegjs/lib/compiler/js.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pegjs/lib/compiler/opcodes.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pegjs/lib/compiler/passes/generate-bytecode.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pegjs/lib/compiler/passes/generate-js.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pegjs/lib/compiler/passes/remove-proxy-rules.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pegjs/lib/compiler/passes/report-duplicate-labels.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pegjs/lib/compiler/passes/report-duplicate-rules.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pegjs/lib/compiler/passes/report-infinite-recursion.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pegjs/lib/compiler/passes/report-infinite-repetition.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pegjs/lib/compiler/passes/report-undefined-rules.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pegjs/lib/compiler/visitor.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pegjs/lib/grammar-error.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pegjs/lib/parser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pegjs/lib/peg.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pegjs/lib/utils/arrays.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pegjs/lib/utils/classes.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pegjs/lib/utils/objects.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pegjs/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/type-detect/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/type-detect/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/type-detect/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/type-detect/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/type-detect/type-detect.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/test.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -191,11 +38,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+            <state relative-caret-position="210">
+              <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
               <folding>
                 <element signature="e#65#95#0" />
                 <element signature="e#1600#3437#0" />
@@ -237,7 +84,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
@@ -282,9 +129,9 @@
         <option value="$PROJECT_DIR$/LICENSE" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Makefile" />
-        <option value="$PROJECT_DIR$/test/test.js" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/.travis.yml" />
+        <option value="$PROJECT_DIR$/test/test.js" />
       </list>
     </option>
   </component>
@@ -376,13 +223,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16412000" />
+    <option name="totallyTimeSpent" value="16510000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1930" y="-317" width="1922" height="828" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16938454" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16938454" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="TypeScript" />
@@ -395,7 +242,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32916668" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32916668" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -480,10 +327,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test/test.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+        <state relative-caret-position="210">
+          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
           <folding>
             <element signature="e#65#95#0" />
             <element signature="e#1600#3437#0" />
@@ -500,20 +361,6 @@
             <element signature="e#54015#60542#0" />
             <element signature="e#60569#74488#0" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.travis.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
         </state>
       </provider>
     </entry>

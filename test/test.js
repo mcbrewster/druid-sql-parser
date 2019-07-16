@@ -1,7 +1,6 @@
-const chai = require('chai');
 const parse = require('../druidsql');
 const stringify = require('../druidsqltostring');
-const assert = chai.assert;
+const assert = require('assert');
 
 
 Object.compare = function (obj1, obj2) {
