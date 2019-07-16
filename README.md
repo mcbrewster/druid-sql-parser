@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/mcbrewster/druid-sql-parser.svg?branch=master)](https://travis-ci.org/mcbrewster/druid-sql-parser)
+
 # Druid Sql Parser 
 Parses Sql to an AST and re-stringifies SQL ASTs
 
