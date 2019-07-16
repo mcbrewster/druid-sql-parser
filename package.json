@@ -1,6 +1,6 @@
 {
   "name": "druid-sql-parser",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "description": "Parses Sql to an AST and re-stringifies SQL ASTs",
   "main": "index.js",
   "scripts": {
